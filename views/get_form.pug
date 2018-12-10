@@ -1,0 +1,12 @@
+extends index.pug
+
+block content
+    h1 Lägg till recept
+    form(action="/addToList", method="post")
+      label(for='name') Receptnamn:
+      input(type="text", name="name")
+      label(for='link') Länk:
+      input(type="text", name="link") 
+      label(for='rating') Betyg: 
+      input(type="number", name="rating")
+      input(type="submit", value="Skicka")

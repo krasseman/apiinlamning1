@@ -1,0 +1,32 @@
+{
+ "description": "Mina bästa recept",
+ "recept": [
+  {
+   "receptnamn": "thaiwok",
+   "link": "koket.se",
+   "rating": 4,
+   "id": "ajgazoyh0ev"
+  },
+  {
+   "receptnamn": "Carbonara deluxe",
+   "link": "koket.se",
+   "rating": 5,
+   "id": "pg1bfbtw59f"
+  },
+  {
+   "rating": 4
+  },
+  {
+   "receptnamn": "Spaghetti bolognese",
+   "link": "koket.se",
+   "rating": 3,
+   "id": "3ro2ckr6tum"
+  },
+  {
+   "receptnamn": "Spaghetti",
+   "link": "koket.se",
+   "rating": 4,
+   "id": "wvkv0zaia4e"
+  }
+ ]
+}
